@@ -1,4 +1,3 @@
-```markdown
 # 📄 DocuSense – Document Intelligence Platform 🚀
 
 [![Python Version](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
