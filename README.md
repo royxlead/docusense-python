@@ -165,13 +165,6 @@ Stores user uploads and processed document data.
 
 Single-page React application for interacting with DocuSense.
 
-### `notebooks/`
-
-Used for AI experimentation and prototyping.
-
-### `tests/`
-
-Unit tests for all core backend functionalities.
 
 ---
 
