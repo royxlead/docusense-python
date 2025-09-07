@@ -1,0 +1,6 @@
+<!-- Simple 192x192 logo placeholder -->
+<svg width="192" height="192" xmlns="http://www.w3.org/2000/svg">
+  <rect width="192" height="192" fill="#007acc" rx="20"/>
+  <text x="96" y="120" font-family="Arial" font-size="80" fill="white" text-anchor="middle" font-weight="bold">DI</text>
+  <text x="96" y="150" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Document Intelligence</text>
+</svg>

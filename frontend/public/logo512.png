@@ -1,0 +1,7 @@
+<!-- Simple 512x512 logo placeholder -->
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" fill="#007acc" rx="50"/>
+  <text x="256" y="300" font-family="Arial" font-size="200" fill="white" text-anchor="middle" font-weight="bold">DI</text>
+  <text x="256" y="380" font-family="Arial" font-size="40" fill="white" text-anchor="middle">Document Intelligence</text>
+  <text x="256" y="420" font-family="Arial" font-size="32" fill="white" text-anchor="middle">Platform</text>
+</svg>
