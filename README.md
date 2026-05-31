@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=DocuSense&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Intelligent%20Document%20Analysis%20%26%20Semantic%20Search&descAlignY=60&descSize=15&descColor=a5b4fc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=Docusense&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Intelligent%20Document%20Analysis%20Semantic%20Search&descAlignY=60&descSize=15&descColor=a5b4fc" width="100%"/>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-6366f1?style=flat-square)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
